@@ -289,3 +289,11 @@ Educational project for industrial IoT monitoring and predictive maintenance.
 1. Run notebook → Trains expert model
 2. Run simulator v2.0 → Loads expert model → Keeps learning
 3. Model gets smarter with each run! 🚀
+
+---
+
+## 🧠 Author
+
+1. Prince Eppakayal
+2. Akash Shukla
+3. Khushi Kandhari
